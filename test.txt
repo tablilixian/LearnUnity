@@ -7,13 +7,13 @@ sddssddsd
 fffffsdfsdfsdfsdfsfsdfs 修改bug
 bug
 bugbugbug
-<<<<<<< HEAD
+
 
 
 asasdasd
-=======
+
 暂存一下
 
 
 sdsds
->>>>>>> devv
+
