@@ -1,19 +1,13 @@
 add test txt
-add jixu txt    sdsdsd
+add jixu txt
 bbbb
 ccccc     dfdfdfdfdfdfddfdfdfd           bugbug
 ddddd
 sddssddsd
-fffffsdfsdfsdfsdfsfsdfs 修改bug
+fffffsdfsdfsdfsdfsfsdfs
 bug
 bugbugbug
-<<<<<<< HEAD
-
-
-asasdasd
-=======
 暂存一下
 
 
 sdsds
->>>>>>> devv
